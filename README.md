@@ -40,7 +40,6 @@
 | [快雷 GO](#kuaileigo) | ¥20/月，150GB | IEPL、VLESS、AnyTLS | 2 台起 |
 | [糖果云](#tangguoyun) | ¥18/月，100GB | VLESS、Hysteria2、IEPL | 不限 |
 | [万达云](#wandayun) | ¥16.8/月，150GB | Trojan、中转与 IEPL | 5 台起 |
-| [悦通](#yuetong) | ¥12.9/月，1000GB | VLESS、Hysteria2、直连 | 5 台起 |
 | [Mitce](#mitce) | $0.60/月，100GB | VLESS、Reality、Hysteria2 | 5—10 台 |
 | [SSRDOG](#ssrdog) | ¥67.5/季，150GB/月 | AnyTLS、IEPL/BGP | 3 台起 |
 | [乌龟加速](#wuguijiasu) | ¥18/月，200GB | 当前以直连为主 | 不限 |
@@ -114,18 +113,6 @@
 
 - **推荐理由：** 套餐类型多、节点地区广、有一键客户端
 - **官网入口：** [万达云官网入口](https://go.clashshome.com/wandayun)
-
----
-
-<a id="yuetong"></a>
-### 06｜悦通
-
-> **定位：** 低价大流量　｜　**入门套餐：** ¥12.9/月 · 1000GB　｜　**协议：** VLESS / Hysteria2
-
-套餐流量较大，同时提供 500GB、2000GB 等不限时流量包。
-
-- **推荐理由：** 价格低、流量大、套餐选择多
-- **官网入口：** [悦通官网入口](https://go.clashshome.com/yuetong)
 
 ---
 
